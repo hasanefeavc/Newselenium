@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Mar 03 11:31:18 TRT 2023","Fri Mar 03 11:31:37 TRT 2023","18556","Default Suite","seleniumallure","seleniumalluregoogle","seleniumalluregoogle","mvnrepositorysearch","mvnrepositorysearch",""
+"passed","Fri Mar 03 11:31:08 TRT 2023","Fri Mar 03 11:31:15 TRT 2023","6838","Default Suite","seleniumallure","seleniumalluregoogle","seleniumalluregoogle","googlesearch","googlesearch",""
+"passed","Fri Mar 03 11:30:50 TRT 2023","Fri Mar 03 11:31:08 TRT 2023","18089","Default Suite","seleniumallure","seleniumalluregoogle","seleniumalluregoogle","amazonsearch","amazonsearch",""
+"passed","Fri Mar 03 11:31:15 TRT 2023","Fri Mar 03 11:31:18 TRT 2023","3608","Default Suite","seleniumallure","seleniumalluregoogle","seleniumalluregoogle","googlesearch2","googlesearch2",""

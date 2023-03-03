@@ -1,0 +1,88 @@
+{
+  "uid": "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children": [
+    {
+      "name": "seleniumalluregoogle",
+      "children": [
+        {
+          "name": "amazonsearch",
+          "uid": "4828f7013ddd14a0",
+          "parentUid": "35a67284347a448dd047e33f8eb433c6",
+          "status": "passed",
+          "time": {
+            "start": 1677832250078,
+            "stop": 1677832268167,
+            "duration": 18089
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 1,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        },
+        {
+          "name": "googlesearch",
+          "uid": "4dd38c7960d9e25b",
+          "parentUid": "35a67284347a448dd047e33f8eb433c6",
+          "status": "passed",
+          "time": {
+            "start": 1677832268220,
+            "stop": 1677832275058,
+            "duration": 6838
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 1,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        },
+        {
+          "name": "googlesearch2",
+          "uid": "d1e4cd916211bae",
+          "parentUid": "35a67284347a448dd047e33f8eb433c6",
+          "status": "passed",
+          "time": {
+            "start": 1677832275063,
+            "stop": 1677832278671,
+            "duration": 3608
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 0,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        },
+        {
+          "name": "mvnrepositorysearch",
+          "uid": "6e1a1f81dde56ae7",
+          "parentUid": "35a67284347a448dd047e33f8eb433c6",
+          "status": "broken",
+          "time": {
+            "start": 1677832278674,
+            "stop": 1677832297230,
+            "duration": 18556
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 1,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "35a67284347a448dd047e33f8eb433c6"
+    }
+  ],
+  "name": "packages"
+}

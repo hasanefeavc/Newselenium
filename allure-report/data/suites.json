@@ -1,0 +1,100 @@
+{
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "children": [
+    {
+      "name": "Default Suite",
+      "children": [
+        {
+          "name": "seleniumallure",
+          "children": [
+            {
+              "name": "seleniumalluregoogle",
+              "children": [
+                {
+                  "name": "amazonsearch",
+                  "uid": "4828f7013ddd14a0",
+                  "parentUid": "efb137a34cef26cef9e96b358f1a73ae",
+                  "status": "passed",
+                  "time": {
+                    "start": 1677832250078,
+                    "stop": 1677832268167,
+                    "duration": 18089
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 1,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "googlesearch",
+                  "uid": "4dd38c7960d9e25b",
+                  "parentUid": "efb137a34cef26cef9e96b358f1a73ae",
+                  "status": "passed",
+                  "time": {
+                    "start": 1677832268220,
+                    "stop": 1677832275058,
+                    "duration": 6838
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 1,
+                  "retriesStatusChange": true,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "googlesearch2",
+                  "uid": "d1e4cd916211bae",
+                  "parentUid": "efb137a34cef26cef9e96b358f1a73ae",
+                  "status": "passed",
+                  "time": {
+                    "start": 1677832275063,
+                    "stop": 1677832278671,
+                    "duration": 3608
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "mvnrepositorysearch",
+                  "uid": "6e1a1f81dde56ae7",
+                  "parentUid": "efb137a34cef26cef9e96b358f1a73ae",
+                  "status": "broken",
+                  "time": {
+                    "start": 1677832278674,
+                    "stop": 1677832297230,
+                    "duration": 18556
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 1,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "efb137a34cef26cef9e96b358f1a73ae"
+            }
+          ],
+          "uid": "07868bad3fab472ebaded48f3968f969"
+        }
+      ],
+      "uid": "8399274b4bb69ec8699907dd6ef7de4e"
+    }
+  ],
+  "name": "suites"
+}

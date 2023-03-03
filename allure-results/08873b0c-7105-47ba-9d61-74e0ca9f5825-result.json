@@ -1,0 +1,66 @@
+{
+  "uuid": "08873b0c-7105-47ba-9d61-74e0ca9f5825",
+  "historyId": "78db677d60415c5a6520e5483556411f",
+  "fullName": "seleniumalluregoogle.googlesearch",
+  "labels": [
+    {
+      "name": "package",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "testClass",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "testMethod",
+      "value": "googlesearch"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "seleniumallure"
+    },
+    {
+      "name": "subSuite",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "host",
+      "value": "Efe"
+    },
+    {
+      "name": "thread",
+      "value": "9073@Efe.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "googlesearch",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Some Screenshot",
+      "source": "b6aaf97d-7b91-4e05-96d9-e4c292ad042f-attachment"
+    }
+  ],
+  "parameters": [],
+  "start": 1677832268220,
+  "stop": 1677832275058
+}

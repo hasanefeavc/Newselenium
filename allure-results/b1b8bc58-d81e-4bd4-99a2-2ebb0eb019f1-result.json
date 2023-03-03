@@ -1,0 +1,61 @@
+{
+  "uuid": "b1b8bc58-d81e-4bd4-99a2-2ebb0eb019f1",
+  "historyId": "23f9ab0efcab07a1a7de7fe7f885471",
+  "fullName": "seleniumalluregoogle.amazonsearch",
+  "labels": [
+    {
+      "name": "package",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "testClass",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "testMethod",
+      "value": "amazonsearch"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "seleniumallure"
+    },
+    {
+      "name": "subSuite",
+      "value": "seleniumalluregoogle"
+    },
+    {
+      "name": "host",
+      "value": "Efe"
+    },
+    {
+      "name": "thread",
+      "value": "9073@Efe.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "amazonsearch",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677832250078,
+  "stop": 1677832268167
+}

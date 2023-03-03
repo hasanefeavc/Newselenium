@@ -1,0 +1,46 @@
+[
+  {
+    "uid": "4828f7013ddd14a0",
+    "name": "amazonsearch",
+    "time": {
+      "start": 1677832250078,
+      "stop": 1677832268167,
+      "duration": 18089
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4dd38c7960d9e25b",
+    "name": "googlesearch",
+    "time": {
+      "start": 1677832268220,
+      "stop": 1677832275058,
+      "duration": 6838
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d1e4cd916211bae",
+    "name": "googlesearch2",
+    "time": {
+      "start": 1677832275063,
+      "stop": 1677832278671,
+      "duration": 3608
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6e1a1f81dde56ae7",
+    "name": "mvnrepositorysearch",
+    "time": {
+      "start": 1677832278674,
+      "stop": 1677832297230,
+      "duration": 18556
+    },
+    "status": "broken",
+    "severity": "normal"
+  }
+]
